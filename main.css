@@ -1,3 +1,15 @@
 body {
-    background-color: rosybrown;
+    background-color: rosybrown; 
+}
+
+#dino-barn {
+    display: flex;
+
+}
+
+.dinosaur {
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
 }
